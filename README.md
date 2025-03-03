@@ -30,7 +30,3 @@ Hello, I'm Melih, a Mechatronics Engineering student with a passion for AI and c
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p align="center"> Visitor count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{melihozendev}/count.svg" />
-</p>
