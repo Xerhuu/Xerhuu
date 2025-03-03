@@ -9,6 +9,7 @@ Hello, I'm Melih and  I'm a Mechatronics engineering student passionate about AI
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
+
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=melihozendev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
