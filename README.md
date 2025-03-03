@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Melih and  I'm a Mechatronics engineering student passionate about AI and computer vision.<br><br>- 🌱 I’m currently learning **Opencv**<br><br>- 🤝 I’m looking for help with [Lane Tracking System](https://github.com/Xerhuu/Lane-Tracking-System)<br><br>- 💬 Ask me about **Opencv**<br><br>- 📫 How to reach me **melihozen789@gmail.com**<br><br>- ⚡ Fun fact **You only live once, so make every turn count.**        
+Hello, I'm Melih, a Mechatronics Engineering student with a passion for AI and computer vision.<br><br>- 🌱 I’m currently learning **Opencv**<br><br>- 🤝 I’m looking for help with [Lane Tracking System](https://github.com/Xerhuu/Lane-Tracking-System)<br><br>- 💬 Ask me about **Opencv**<br><br>- 📫 How to reach me **melihozen789@gmail.com**<br><br>- ⚡ Fun fact **You only live once, so make every turn count.**        
 
 <img  align="right"  height="250" alt="space-computers" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhvNWp1OThiY3pkd21qeTQ5Y3c0Y212eDNnanV5MDNobmFwbDNnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kiWlpxD6hXmvTL8dio/giphy.gif"  />
 
